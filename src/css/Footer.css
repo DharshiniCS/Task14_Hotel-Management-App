@@ -1,0 +1,24 @@
+.footer{
+ background: linear-gradient(135deg, #3B0A0A, #770d0d, #7e0711);
+    color:white;
+    text-align:center;
+    padding:30px 20px;
+    margin-top:50px;
+}
+
+.footer h2{
+    color:#C9A227;
+    margin-bottom:10px;
+    font-size:28px;
+}
+
+.footer p{
+    margin:8px 0;
+    font-size:16px;
+}
+
+.footer .copyright{
+    margin-top:20px;
+    color:#C9A227;
+    font-size:14px;
+}
